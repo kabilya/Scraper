@@ -1,0 +1,13 @@
+D:\oDesk\FCLScraper\FCLScraper\obj\Debug\FCLScraper.MainForm.resources
+D:\oDesk\FCLScraper\FCLScraper\obj\Debug\FCLScraper.Properties.Resources.resources
+D:\oDesk\FCLScraper\FCLScraper\obj\Debug\FCLScraper.csproj.GenerateResource.Cache
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\FCLScraper.exe.config
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\FCLScraper.exe
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\FCLScraper.pdb
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\CsvHelper.dll
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\NDesk.Options.dll
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\CsvHelper.pdb
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\CsvHelper.xml
+D:\oDesk\FCLScraper\FCLScraper\obj\Debug\FCLScraper.exe
+D:\oDesk\FCLScraper\FCLScraper\obj\Debug\FCLScraper.pdb
+D:\oDesk\FCLScraper\FCLScraper\bin\Debug\domains.csv
